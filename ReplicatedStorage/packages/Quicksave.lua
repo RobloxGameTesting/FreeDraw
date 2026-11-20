@@ -1,0 +1,1 @@
+return require(script.Parent._Index["reselim_quicksave@1.0.7"].quicksave)

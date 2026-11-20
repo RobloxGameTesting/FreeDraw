@@ -1,0 +1,1 @@
+return { getTime = os.clock }
